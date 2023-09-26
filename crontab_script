@@ -1,0 +1,7 @@
+#!/bin/bash
+
+###############################
+#To check the & create Crontab
+###############################
+
+echo "Hey Sachin !! your $num script is running on crontab and Date is - $(date)"
